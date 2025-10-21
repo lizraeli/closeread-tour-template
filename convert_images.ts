@@ -3,7 +3,7 @@ import {
   IMagickImage,
   initialize,
   MagickFormat,
-} from 'https://deno.land/x/imagemagick_deno/mod.ts';
+} from 'https://deno.land/x/imagemagick_deno@0.0.31/mod.ts';
 
 await initialize(); // make sure to initialize first!
 
