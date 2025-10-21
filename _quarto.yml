@@ -1,0 +1,9 @@
+project:
+  title: "Rego Park"
+  output-dir: public
+  post-render:
+    - convert_images.ts
+    - lazy_load_images.ts
+
+
+

@@ -1,0 +1,162 @@
+---
+title: Sample Tour of Midtown Manhattan
+author: Your Name Here
+format:
+  closeread-html:
+    css: styles.css
+    remove-header-space: true
+    description: A tiny example tour built with Quarto Closeread
+    mainfont: 'et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif'
+    cr-style:
+      narrative-background-color-overlay: rgba(251,252,237,0.9)
+      narrative-background-color-sidebar: transparent
+      section-background-color: transparent
+      narrative-text-color-overlay: black
+      narrative-font-family: 'et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif'
+    cr-section:
+      layout: overlay-center
+    toc: true
+    toc-title: ⇂ Midtown Sample Tour ⇂
+    toc-location: right-body
+    lightbox: true
+---
+
+<!--
+All example images referenced here are public domain. Swap in your own public domain images or photos you have rights to.
+-->
+
+{{< spacer 8svh >}}
+
+# Introduction
+
+
+:::{.cr-section}
+
+:::{#cr-midtown-map}
+![](images/midtown/midtown_overview_map.png)
+
+"Midtown, Manhattan Map" by PerryPlanet - public domain
+:::
+
+
+{{< spacer 1svh >}}
+
+Midtown Manhattan is the busy heart of New York City — a mix of transit hubs, cultural landmarks, and bright billboards. @cr-midtown-map
+
+
+:::
+
+
+# Times Square - 1900s to today
+
+
+:::{.cr-section}
+
+<!-- Add the .mobile-pan class to make the photo pan from left to right on small devices -->
+:::{#cr-times-square-historic .mobile-pan}
+![](images/midtown/times_square_historic.jpg)
+
+Library of Congress, Detroit Publishing Co. — Public Domain
+:::
+
+:::{#cr-times-square-today .mobile-pan}
+![](images/midtown/times_square_today.jpg)
+
+"Times Square In New York"
+by Guy Percival - Public Domain
+:::
+
+{{< spacer 1svh >}}
+
+Times Square evolved from Longacre Square into a global marquee after the New York Times moved here in 1904.  @cr-times-square-historic
+
+The square’s layered signage and pedestrian plazas make it a quintessential Midtown moment.
+
+_Tip for your tour:_ pair a historic image with a contemporary view to show change over time. @cr-times-square-today
+
+:::
+
+
+# New York Public Library
+
+:::{.cr-section}
+
+:::{#cr-nypl-exterior}
+![](images/midtown/nypl_exterior.jpg)
+
+Wikimedia Commons (pre-1929) — Public Domain
+:::
+
+:::{#cr-nypl-reading-room}
+![](images/midtown/nypl_reading_room.jpg)
+
+NYPL Digital Collections — Public Domain/CC0
+:::
+
+{{< spacer 1svh >}}
+
+
+Opened in 1911, the library’s Beaux-Arts façade and vast Rose Main Reading Room symbolize public learning on a monumental scale. @cr-nypl-exterior
+
+Use this stop to demonstrate interior vs. exterior imagery with contextual text. @cr-nypl-reading-room
+
+:::
+
+
+# Grand Central Terminal
+
+
+:::{.cr-section}
+
+:::{#cr-gct-concourse}
+![](images/midtown/gct_concourse.jpg)
+
+“Busy Grand Central Terminal” by Petr Kratochpublic domain
+:::
+
+:::{#cr-gct-constellation}
+![](images/midtown/gct_ceiling_constellation.jpg)
+
+The ceiling of the Grand Central Terminal in NewCity by [Arnoldius](https://commons.wikimedia.org/wiki/User:Arnoldius) - Public Domain
+:::
+
+{{< spacer 1svh >}}
+
+
+Grand Central (1913) combines engineering, transit, and civic grandeur. A close-up panel can spotlight the ceiling’s reversed zodiac constellations; another can anchor the sense of place with the bustling concourse. @cr-gct-concourse @cr-gct-constellation
+
+:::
+
+
+# Outro
+
+
+:::{.cr-section}
+
+:::{#cr-outro-street .mobile-pan}
+![](images/midtown/outro_street.jpg)
+
+“Fifth Avenue” by Petr Kratochvil - Public Domain
+:::
+
+{{< spacer 1svh >}}
+
+
+This sample is intentionally short. Duplicate a section to add more places, swap images, and adjust the narrative to fit your tour. @cr-outro-street
+
+:::
+
+
+# Attributions & Image Notes
+
+- Map tiles © Mapbox · Data © OpenStreetMap.
+- Historic images are public domain. For each image you use, keep a small note with the source and rights (e.g., “Library of Congress, PD”).
+- Replace placeholder captions with credits/links to the image source page.
+
+
+# Further Reading
+
+- *AIA Guide to New York City* (general reference)
+- NYC Landmarks Preservation Commission reports (building dossiers)
+- Library of Congress Prints & Photographs (public domain search)
+- Wikimedia Commons (public domain & freely licensed media)

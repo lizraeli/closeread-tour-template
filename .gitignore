@@ -1,0 +1,7 @@
+index_files/
+.DS_Store
+.vercel
+
+/.quarto/
+public/
+_extensions/
