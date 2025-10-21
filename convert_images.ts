@@ -7,7 +7,6 @@ import {
 
 await initialize(); // make sure to initialize first!
 
-// convert_images.ts
 const walkDir = async (dir: string): Promise<string[]> => {
   const files: string[] = [];
   for await (const entry of Deno.readDir(dir)) {
