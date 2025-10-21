@@ -1,6 +1,6 @@
 # Closeread Tour Template
 
-A Quarto Closeread sample project for creating interactive tours of neighborhoods, landmarks, campuses, or any place/theme. The repo include with a very short Midtown Manhattan sample and public‑domain image placeholders so you can swap in your own content fast.
+A [Closeread](https://github.com/qmd-lab/closeread) sample project for creating interactive tours of neighborhoods, landmarks, campuses, or any place/theme. The repo include with a very short Midtown Manhattan sample and public‑domain image placeholders so you can swap in your own content fast.
 
 ## Quick Start
 
