@@ -21,9 +21,6 @@ format:
     lightbox: true
 ---
 
-<!--
-All example images referenced here are public domain. Swap in your own public domain images or photos you have rights to.
--->
 
 {{< spacer 8svh >}}
 
@@ -52,8 +49,9 @@ Midtown Manhattan is the busy heart of New York City — a mix of transit hubs, 
 
 :::{.cr-section}
 
-<!-- Add the .mobile-pan class to make the photo pan from left to right on small devices -->
+
 :::{#cr-times-square-historic .mobile-pan}
+<!-- The .mobile-pan class makes the photo pan from left to right on small devices -->
 ![](images/midtown/times_square_historic.jpg)
 
 Library of Congress, Detroit Publishing Co. — Public Domain
@@ -70,9 +68,9 @@ by Guy Percival - Public Domain
 
 Times Square evolved from Longacre Square into a global marquee after the New York Times moved here in 1904.  @cr-times-square-historic
 
-The square’s layered signage and pedestrian plazas make it a quintessential Midtown moment.
+The square’s layered signage and pedestrian plazas make it a quintessential Midtown location.
 
-_Tip for your tour:_ pair a historic image with a contemporary view to show change over time. @cr-times-square-today
+_Tip for your tour:_ pair historic images with a contemporary view to show change over time. @cr-times-square-today
 
 :::
 
@@ -96,9 +94,11 @@ NYPL Digital Collections — Public Domain/CC0
 {{< spacer 1svh >}}
 
 
-Opened in 1911, the library’s Beaux-Arts façade and vast Rose Main Reading Room symbolize public learning on a monumental scale. @cr-nypl-exterior
+Opened in 1911, the library’s Beaux-Arts façade and vast Rose Main Reading Room symbolize public learning at scale. @cr-nypl-exterior
 
-Use this stop to demonstrate interior vs. exterior imagery with contextual text. @cr-nypl-reading-room
+The Main Reading Room is furnished with low wooden tables and chairs. There are two arrays of tables in each hall, separated by a wide aisle; each table has four brass lamps. @cr-nypl-reading-room
+
+Surrounding the room are thousands of reference works, which may be taken off the open shelves along the room's main and balcony levels.
 
 :::
 
@@ -123,7 +123,9 @@ The ceiling of the Grand Central Terminal in NewCity by [Arnoldius](https://comm
 {{< spacer 1svh >}}
 
 
-Grand Central (1913) combines engineering, transit, and civic grandeur. A close-up panel can spotlight the ceiling’s reversed zodiac constellations; another can anchor the sense of place with the bustling concourse. @cr-gct-concourse @cr-gct-constellation
+Grand Central (1913) combines engineering, transit, and civic grandeur. A close-up panel can spotlight the ceiling’s reversed zodiac constellations. @cr-gct-constellation
+
+Another can anchor the sense of place with the bustling concourse. @cr-gct-concourse 
 
 :::
 
@@ -142,14 +144,13 @@ Grand Central (1913) combines engineering, transit, and civic grandeur. A close-
 {{< spacer 1svh >}}
 
 
-This sample is intentionally short. Duplicate a section to add more places, swap images, and adjust the narrative to fit your tour. @cr-outro-street
+This sample is intentionally short. Duplicate a section to add more places, replace images and adjust the narrative to fit your tour. @cr-outro-street
 
 :::
 
 
 # Attributions & Image Notes
 
-- Map tiles © Mapbox · Data © OpenStreetMap.
 - Historic images are public domain. For each image you use, keep a small note with the source and rights (e.g., “Library of Congress, PD”).
 - Replace placeholder captions with credits/links to the image source page.
 
