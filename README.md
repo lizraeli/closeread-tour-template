@@ -4,6 +4,8 @@ A [Closeread](https://github.com/qmd-lab/closeread) sample project for creating 
 
 The repo includes a short Midtown Manhattan example with public‑domain images.
 
+**[Link to Live Demo](https://closeread-tour-template.vercel.app/)**
+
 ## Prerequisites
 
 Before getting started, you'll need:
