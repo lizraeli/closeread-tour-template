@@ -35,6 +35,9 @@ format:
 "Midtown, Manhattan Map" by PerryPlanet - public domain
 :::
 
+:::{.empty focus-on="cr-midtown-map"}
+<!-- This allows to display the image first, before displaying any text -->
+:::
 
 {{< spacer 1svh >}}
 
@@ -64,6 +67,10 @@ Library of Congress, Detroit Publishing Co. — Public Domain
 by Guy Percival - Public Domain
 :::
 
+:::{.empty focus-on="cr-times-square-historic"}
+:::
+
+
 {{< spacer 1svh >}}
 
 Times Square evolved from Longacre Square into a global marquee after the New York Times moved here in 1904.  @cr-times-square-historic
@@ -89,6 +96,9 @@ Wikimedia Commons (pre-1929) — Public Domain
 ![](images/midtown/nypl_reading_room.jpg)
 
 NYPL Digital Collections — Public Domain/CC0
+:::
+
+:::{.empty focus-on="cr-nypl-exterior"}
 :::
 
 {{< spacer 1svh >}}
@@ -118,6 +128,9 @@ Surrounding the room are thousands of reference works, which may be taken off th
 ![](images/midtown/gct_ceiling_constellation.jpg)
 
 The ceiling of the Grand Central Terminal in NewCity by [Arnoldius](https://commons.wikimedia.org/wiki/User:Arnoldius) - Public Domain
+:::
+
+:::{.empty focus-on="cr-gct-concourse"}
 :::
 
 {{< spacer 1svh >}}
