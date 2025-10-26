@@ -41,7 +41,7 @@ format:
 
 {{< spacer 1svh >}}
 
-Midtown Manhattan is the busy heart of New York City — a mix of transit hubs, cultural landmarks, and bright billboards. @cr-midtown-map
+Midtown Manhattan is one of the city’s core locations, where commuters pour through vast stations, theaters light up the night, and skyscrapers trace the city’s silhouette. @cr-midtown-map
 
 
 :::
@@ -73,11 +73,9 @@ by Guy Percival - Public Domain
 
 {{< spacer 1svh >}}
 
-Times Square evolved from Longacre Square into a global marquee after the New York Times moved here in 1904.  @cr-times-square-historic
+Times Square evolved from Longacre Square into a global commercial intersection after the New York Times moved here in 1904.  @cr-times-square-historic
 
-The square’s layered signage and pedestrian plazas make it a quintessential Midtown location.
-
-_Tip for your tour:_ pair historic images with a contemporary view to show change over time. @cr-times-square-today
+Today, the area glows with neon lights, digital billboards, and crowds from around the world, making it one of the most photographed places on Earth. @cr-times-square-today
 
 :::
 
@@ -104,7 +102,7 @@ NYPL Digital Collections — Public Domain/CC0
 {{< spacer 1svh >}}
 
 
-Opened in 1911, the library’s Beaux-Arts façade and vast Rose Main Reading Room symbolize public learning at scale. @cr-nypl-exterior
+Opened in 1911, the library’s Beaux-Arts façade and vast Rose Main Reading Room are symbols of public learning on a grand scale. @cr-nypl-exterior
 
 The Main Reading Room is furnished with low wooden tables and chairs. There are two arrays of tables in each hall, separated by a wide aisle; each table has four brass lamps. @cr-nypl-reading-room
 
@@ -136,9 +134,10 @@ The ceiling of the Grand Central Terminal in NewCity by [Arnoldius](https://comm
 {{< spacer 1svh >}}
 
 
-Grand Central (1913) combines engineering, transit, and civic grandeur. A close-up panel can spotlight the ceiling’s reversed zodiac constellations. @cr-gct-constellation
+Grand Central (1913) combines engineering, transit, and civic grandeur. The ceiling traces a reversed map of the constellations. @cr-gct-constellation
 
-Another can anchor the sense of place with the bustling concourse. @cr-gct-concourse 
+
+The terminal’s concourse, with its constant motion of travelers and echoing announcements, captures the rhythm of the city itself. @cr-gct-concourse 
 
 :::
 
@@ -157,7 +156,7 @@ Another can anchor the sense of place with the bustling concourse. @cr-gct-conco
 {{< spacer 1svh >}}
 
 
-This sample is intentionally short. Duplicate a section to add more places, replace images and adjust the narrative to fit your tour. @cr-outro-street
+Midtown is both a crossroads and a showcase of the city’s ambition, where historic architecture and modern life continually intersect. @cr-outro-street
 
 :::
 
